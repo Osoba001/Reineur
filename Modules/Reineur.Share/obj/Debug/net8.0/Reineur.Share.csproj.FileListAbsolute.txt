@@ -1,0 +1,12 @@
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\bin\Debug\net8.0\Reineur.Share.deps.json
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\bin\Debug\net8.0\Reineur.Share.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\bin\Debug\net8.0\Reineur.Share.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.AssemblyInfo.cs
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\refint\Reineur.Share.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\Reineur.Share.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\Reineur.Share\obj\Debug\net8.0\ref\Reineur.Share.dll

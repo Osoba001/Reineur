@@ -1,0 +1,17 @@
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.AssemblyInfo.cs
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Users.Infrastucture.deps.json
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Users.Infrastucture.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Users.Infrastucture.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Reineur.Share.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Users.Application.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Users.Application.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\bin\Debug\net8.0\Reineur.Share.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.csproj.CopyComplete
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\refint\Users.Infrastucture.dll
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\Users.Infrastucture.pdb
+C:\Users\kelly.osoba\Documents\Projects\Reineur\Modules\UserModule\Users.Infrastucture\obj\Debug\net8.0\ref\Users.Infrastucture.dll
